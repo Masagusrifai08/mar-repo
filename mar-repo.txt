@@ -1,3 +1,4 @@
 MAR 
 -Konsisten membuat program setiap pekan 2 kali
 -Membuat aplikasi tiap 2 pekan
+-membuat march shop
