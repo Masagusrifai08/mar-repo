@@ -3,6 +3,8 @@ rencana konten MAR
 -Program Aplikasi
 -nulis artikel
 a.nulis berita
--motret
+b.motret
 -Belajar javascript
-b.react
+a.react
+b. vue
+c. angular
