@@ -3,3 +3,4 @@ rencana konten MAR
 -Program Aplikasi
 -nulis artikel
 -motret
+-Belajar javascript
