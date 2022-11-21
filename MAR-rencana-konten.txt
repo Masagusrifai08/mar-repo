@@ -1,3 +1,5 @@
 rencana konten MAR
 -Program Web
 -Program Aplikasi
+-nulis artikel
+-motret
