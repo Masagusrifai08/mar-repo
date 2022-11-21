@@ -2,9 +2,9 @@ rencana konten MAR
 -Program Web
 -Program Aplikasi
 -nulis artikel
-a. nulis artikel
-b. nulis berita
--motret
+a.nulis berita
+b.motret
 -Belajar javascript
-a. vue
-b. angular
+a.react
+b. vue
+c. angular
