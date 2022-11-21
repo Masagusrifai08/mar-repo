@@ -2,5 +2,7 @@ rencana konten MAR
 -Program Web
 -Program Aplikasi
 -nulis artikel
+a.nulis berita
 -motret
 -Belajar javascript
+b.react
