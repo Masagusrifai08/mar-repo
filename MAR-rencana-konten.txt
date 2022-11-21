@@ -7,3 +7,4 @@ b. nulis berita
 -motret
 -Belajar javascript
 a. vue
+b. angular
